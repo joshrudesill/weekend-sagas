@@ -28,8 +28,6 @@ else {
     host: "localhost",
     port: 5432,
     database: databaseName,
-    password: "password",
-    user: "postgres",
   });
 }
 
